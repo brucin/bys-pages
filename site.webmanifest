@@ -1,7 +1,7 @@
 {
-  "name": "Bai",
-  "short_name": "Bai",
-  "description": "Bai - Internal Martial Arts",
+  "name": "Bailu",
+  "short_name": "Bailu",
+  "description": "Bailu — Internal Martial Arts",
   "icons": [
     {"src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png"},
     {"src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png"}
