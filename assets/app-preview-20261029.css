@@ -1,0 +1,8 @@
+#app-preview .app-screens{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:start;gap:44px;max-width:1080px;margin:0 auto}
+#app-preview .app-screens figure{margin:0;min-width:0;text-align:center}
+#app-preview .app-screens a.iphone-preview{display:block;width:100%;max-width:320px;margin:0 auto;padding:6px;border:1px solid #465653;border-radius:32px;background:#263432;box-shadow:0 18px 34px rgba(23,57,63,.08);overflow:hidden;box-sizing:border-box}
+#app-preview .app-screens img{display:block;width:100%;height:auto;max-height:none;aspect-ratio:428/926;object-fit:contain;border-radius:25px;background:#fffff8}
+#app-preview .app-screens figcaption{margin:24px 0 0;font-size:21px;font-weight:700;line-height:1.5}
+#app-preview .app-screens figcaption::after{content:attr(data-description);display:block;margin:8px 0 0;font-size:14px;font-weight:400;line-height:1.7;color:#536b70}
+@media(max-width:900px){#app-preview .app-screens{gap:22px}#app-preview .app-screens a.iphone-preview{padding:5px;border-radius:25px}#app-preview .app-screens img{border-radius:19px}#app-preview .app-screens figcaption{font-size:18px}}
+@media(max-width:620px){#app-preview .app-screens{grid-template-columns:1fr;gap:46px}#app-preview .app-screens a.iphone-preview{max-width:300px}}
