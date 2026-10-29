@@ -1,0 +1,2 @@
+/* Keep the approved model artwork; update only its English text watermark. */
+html:lang(en) .practice-site .model-watermarks i::before{content:"Bailu Hub"}
