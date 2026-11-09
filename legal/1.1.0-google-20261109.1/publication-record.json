@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0-google-20261109.1",
+  "textApproved": true,
+  "published": false,
+  "effectiveAt": null,
+  "approvalSourceManifestSHA256": "de69934ce52ecf8c2165e44728ff2b5a846ae73afeeb3dab2be510209c6903de",
+  "documentSHA256": {
+    "zh-cn/privacy": "e27324ef84b45bf9eb0bdca65883e8e29d1668bf05e253df45cfee1fe72cc0a3",
+    "zh-cn/terms": "65d4def66ae2f7ea917833d56295d7e4de9d53db33d77ca4edec5cdc7acee549",
+    "zh-tw/privacy": "17d24ee4fda16480de525e87a029d969f06ac6ec2affd72a508f83ec8bd8aa61",
+    "zh-tw/terms": "187af55c8b76cf0fb7e706994b915da46982ba367198d23164a6b509ceafe228",
+    "en/privacy": "b26e7e7ba47b513c34b7cc4eda435142ce997f61b66b27e357d76234d49a415a",
+    "en/terms": "2784812ab180727c5d985d390ca98e7210dc43f9b5d7fcc3bc7666751decedc0"
+  },
+  "publicationRule": "Set effectiveAt only after authorized formal publication and successful readback of all six documents. Do not backdate; record both hosts and immutable evidence."
+}
