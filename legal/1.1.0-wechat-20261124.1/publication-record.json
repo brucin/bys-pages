@@ -1,0 +1,63 @@
+{
+  "approvalReference": "BYS-WECHAT-LEGAL-APPROVAL-20261124",
+  "approved": true,
+  "approvedAt": "2026-11-24T05:10:25Z",
+  "documents": [
+    {
+      "canonical": "zh-cn/privacy/body.txt",
+      "documentId": "WECHAT_PRIVACY_ZH_CN_20261124_1",
+      "kind": "privacy",
+      "locale": "zh-cn",
+      "sha256": "4798caec5f8b8537e52ee760b0f5e6a2d096d3e2a202684391e06b65ce550f14",
+      "version": "1.1.0-wechat-20261124.1"
+    },
+    {
+      "canonical": "zh-cn/terms/body.txt",
+      "documentId": "WECHAT_TERMS_ZH_CN_20261124_1",
+      "kind": "terms",
+      "locale": "zh-cn",
+      "sha256": "8339c560ed364229e61ebc9d4221b078fbada165dd3d5ba9d3f54f5e4b95eb36",
+      "version": "1.1.0-wechat-20261124.1"
+    },
+    {
+      "canonical": "zh-tw/privacy/body.txt",
+      "documentId": "WECHAT_PRIVACY_ZH_TW_20261124_1",
+      "kind": "privacy",
+      "locale": "zh-tw",
+      "sha256": "f86f9c73c1d68cc500e5497275b63249f00371737fcdc085f94c9309bd3de7d8",
+      "version": "1.1.0-wechat-20261124.1"
+    },
+    {
+      "canonical": "zh-tw/terms/body.txt",
+      "documentId": "WECHAT_TERMS_ZH_TW_20261124_1",
+      "kind": "terms",
+      "locale": "zh-tw",
+      "sha256": "c40677bc8f02e9ffbac079bb21c050f6e66cb5f04233d062f370c091f7df7405",
+      "version": "1.1.0-wechat-20261124.1"
+    },
+    {
+      "canonical": "en/privacy/body.txt",
+      "documentId": "WECHAT_PRIVACY_EN_20261124_1",
+      "kind": "privacy",
+      "locale": "en",
+      "sha256": "240381de878d6873c93c82ed64e4319e3541fb62709ed4cb0f7427cba48a0e64",
+      "version": "1.1.0-wechat-20261124.1"
+    },
+    {
+      "canonical": "en/terms/body.txt",
+      "documentId": "WECHAT_TERMS_EN_20261124_1",
+      "kind": "terms",
+      "locale": "en",
+      "sha256": "552bd4be8ba2b77968b907d963d77f12c94b5f73867f83c0dc8e07ab484b6d79",
+      "version": "1.1.0-wechat-20261124.1"
+    }
+  ],
+  "effectiveAt": null,
+  "features": [
+    "WECHAT_UNIFIED_ACCOUNT_REGISTRATION_V1"
+  ],
+  "published": false,
+  "publishedAt": null,
+  "status": "HUMAN_APPROVED_PUBLICATION_PENDING_VERIFICATION",
+  "version": "1.1.0-wechat-20261124.1"
+}
