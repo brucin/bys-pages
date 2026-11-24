@@ -52,12 +52,15 @@
       "version": "1.1.0-wechat-20261124.1"
     }
   ],
-  "effectiveAt": null,
+  "effectiveAt": "2026-11-24T05:21:02.594452Z",
   "features": [
     "WECHAT_UNIFIED_ACCOUNT_REGISTRATION_V1"
   ],
-  "published": false,
-  "publishedAt": null,
-  "status": "HUMAN_APPROVED_PUBLICATION_PENDING_VERIFICATION",
+  "productActivationSeparate": true,
+  "published": true,
+  "publishedAt": "2026-11-24T05:21:02.594452Z",
+  "sourceApprovedTextManifestSHA256": "bb84777e9909d9fe309cd73fcea72450e5102f38c682987d8092d455234dd0fe",
+  "status": "APPROVED_PUBLISHED_EFFECTIVE_POLICY_ARCHIVE",
+  "verifiedReadbackEvidenceSHA256": "8542b5cf87b01c0cc9948a8fd0b0b534cc2546354099fadf14f025c7d1af9858",
   "version": "1.1.0-wechat-20261124.1"
 }
